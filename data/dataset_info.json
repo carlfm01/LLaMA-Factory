@@ -41,6 +41,7 @@
   },
   "mega-es-v2": {
     "file_name": "mega-es-v2.json",
+    "formatting": "sharegpt",
     "columns": {
       "messages": "conversations",
       "role": "from",
